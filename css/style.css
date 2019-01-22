@@ -21,6 +21,10 @@
 		display: table;
 		clear: both;
 	}
+	.portfolio-img{
+		max-height: 100%;
+		max-width: 100%;
+	}
 
 		/* Font face */
 	@font-face { 
